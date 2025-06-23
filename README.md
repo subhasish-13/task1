@@ -1,7 +1,7 @@
 # Task1 (Data Cleaning and Preprocessing)
 In this task, the following data cleaning operations were performed using Python (with pandas and numpy):
 
-1. Identify and Handle Missing Values:
+1. Identify and Handle Missing Values:<br>
 Used .isnull().sum in Python to detect missing values.
 
 2. Remove Duplicate Rows:
